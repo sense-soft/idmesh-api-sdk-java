@@ -36,11 +36,11 @@ All URIs are relative to *http://localhost*
 ### Example
 ```java
 // Import classes:
-import com.idmesh.ApiClient;
-import com.idmesh.ApiException;
-import com.idmesh.Configuration;
+import cn.idmesh.ApiClient;
+import cn.idmesh.ApiException;
+import cn.idmesh.Configuration;
 import com.idmesh.models.*;
-import com.idmesh.api.PermissionApi;
+import api.cn.idmesh.PermissionApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -105,11 +105,11 @@ No authorization required
 ### Example
 ```java
 // Import classes:
-import com.idmesh.ApiClient;
-import com.idmesh.ApiException;
-import com.idmesh.Configuration;
+import cn.idmesh.ApiClient;
+import cn.idmesh.ApiException;
+import cn.idmesh.Configuration;
 import com.idmesh.models.*;
-import com.idmesh.api.PermissionApi;
+import api.cn.idmesh.PermissionApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -171,11 +171,11 @@ No authorization required
 ### Example
 ```java
 // Import classes:
-import com.idmesh.ApiClient;
-import com.idmesh.ApiException;
-import com.idmesh.Configuration;
+import cn.idmesh.ApiClient;
+import cn.idmesh.ApiException;
+import cn.idmesh.Configuration;
 import com.idmesh.models.*;
-import com.idmesh.api.PermissionApi;
+import api.cn.idmesh.PermissionApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -239,11 +239,11 @@ No authorization required
 ### Example
 ```java
 // Import classes:
-import com.idmesh.ApiClient;
-import com.idmesh.ApiException;
-import com.idmesh.Configuration;
+import cn.idmesh.ApiClient;
+import cn.idmesh.ApiException;
+import cn.idmesh.Configuration;
 import com.idmesh.models.*;
-import com.idmesh.api.PermissionApi;
+import api.cn.idmesh.PermissionApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -307,11 +307,11 @@ No authorization required
 ### Example
 ```java
 // Import classes:
-import com.idmesh.ApiClient;
-import com.idmesh.ApiException;
-import com.idmesh.Configuration;
+import cn.idmesh.ApiClient;
+import cn.idmesh.ApiException;
+import cn.idmesh.Configuration;
 import com.idmesh.models.*;
-import com.idmesh.api.PermissionApi;
+import api.cn.idmesh.PermissionApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -373,11 +373,11 @@ No authorization required
 ### Example
 ```java
 // Import classes:
-import com.idmesh.ApiClient;
-import com.idmesh.ApiException;
-import com.idmesh.Configuration;
+import cn.idmesh.ApiClient;
+import cn.idmesh.ApiException;
+import cn.idmesh.Configuration;
 import com.idmesh.models.*;
-import com.idmesh.api.PermissionApi;
+import api.cn.idmesh.PermissionApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -439,11 +439,11 @@ No authorization required
 ### Example
 ```java
 // Import classes:
-import com.idmesh.ApiClient;
-import com.idmesh.ApiException;
-import com.idmesh.Configuration;
+import cn.idmesh.ApiClient;
+import cn.idmesh.ApiException;
+import cn.idmesh.Configuration;
 import com.idmesh.models.*;
-import com.idmesh.api.PermissionApi;
+import api.cn.idmesh.PermissionApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -502,11 +502,11 @@ No authorization required
 ### Example
 ```java
 // Import classes:
-import com.idmesh.ApiClient;
-import com.idmesh.ApiException;
-import com.idmesh.Configuration;
+import cn.idmesh.ApiClient;
+import cn.idmesh.ApiException;
+import cn.idmesh.Configuration;
 import com.idmesh.models.*;
-import com.idmesh.api.PermissionApi;
+import api.cn.idmesh.PermissionApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -581,11 +581,11 @@ No authorization required
 ### Example
 ```java
 // Import classes:
-import com.idmesh.ApiClient;
-import com.idmesh.ApiException;
-import com.idmesh.Configuration;
+import cn.idmesh.ApiClient;
+import cn.idmesh.ApiException;
+import cn.idmesh.Configuration;
 import com.idmesh.models.*;
-import com.idmesh.api.PermissionApi;
+import api.cn.idmesh.PermissionApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -671,11 +671,11 @@ No authorization required
 ### Example
 ```java
 // Import classes:
-import com.idmesh.ApiClient;
-import com.idmesh.ApiException;
-import com.idmesh.Configuration;
+import cn.idmesh.ApiClient;
+import cn.idmesh.ApiException;
+import cn.idmesh.Configuration;
 import com.idmesh.models.*;
-import com.idmesh.api.PermissionApi;
+import api.cn.idmesh.PermissionApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -736,11 +736,11 @@ No authorization required
 ### Example
 ```java
 // Import classes:
-import com.idmesh.ApiClient;
-import com.idmesh.ApiException;
-import com.idmesh.Configuration;
+import cn.idmesh.ApiClient;
+import cn.idmesh.ApiException;
+import cn.idmesh.Configuration;
 import com.idmesh.models.*;
-import com.idmesh.api.PermissionApi;
+import api.cn.idmesh.PermissionApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -801,11 +801,11 @@ No authorization required
 ### Example
 ```java
 // Import classes:
-import com.idmesh.ApiClient;
-import com.idmesh.ApiException;
-import com.idmesh.Configuration;
+import cn.idmesh.ApiClient;
+import cn.idmesh.ApiException;
+import cn.idmesh.Configuration;
 import com.idmesh.models.*;
-import com.idmesh.api.PermissionApi;
+import api.cn.idmesh.PermissionApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -879,11 +879,11 @@ No authorization required
 ### Example
 ```java
 // Import classes:
-import com.idmesh.ApiClient;
-import com.idmesh.ApiException;
-import com.idmesh.Configuration;
+import cn.idmesh.ApiClient;
+import cn.idmesh.ApiException;
+import cn.idmesh.Configuration;
 import com.idmesh.models.*;
-import com.idmesh.api.PermissionApi;
+import api.cn.idmesh.PermissionApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -942,11 +942,11 @@ No authorization required
 ### Example
 ```java
 // Import classes:
-import com.idmesh.ApiClient;
-import com.idmesh.ApiException;
-import com.idmesh.Configuration;
+import cn.idmesh.ApiClient;
+import cn.idmesh.ApiException;
+import cn.idmesh.Configuration;
 import com.idmesh.models.*;
-import com.idmesh.api.PermissionApi;
+import api.cn.idmesh.PermissionApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -1020,11 +1020,11 @@ No authorization required
 ### Example
 ```java
 // Import classes:
-import com.idmesh.ApiClient;
-import com.idmesh.ApiException;
-import com.idmesh.Configuration;
+import cn.idmesh.ApiClient;
+import cn.idmesh.ApiException;
+import cn.idmesh.Configuration;
 import com.idmesh.models.*;
-import com.idmesh.api.PermissionApi;
+import api.cn.idmesh.PermissionApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -1104,11 +1104,11 @@ No authorization required
 ### Example
 ```java
 // Import classes:
-import com.idmesh.ApiClient;
-import com.idmesh.ApiException;
-import com.idmesh.Configuration;
+import cn.idmesh.ApiClient;
+import cn.idmesh.ApiException;
+import cn.idmesh.Configuration;
 import com.idmesh.models.*;
-import com.idmesh.api.PermissionApi;
+import api.cn.idmesh.PermissionApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -1174,11 +1174,11 @@ No authorization required
 ### Example
 ```java
 // Import classes:
-import com.idmesh.ApiClient;
-import com.idmesh.ApiException;
-import com.idmesh.Configuration;
+import cn.idmesh.ApiClient;
+import cn.idmesh.ApiException;
+import cn.idmesh.Configuration;
 import com.idmesh.models.*;
-import com.idmesh.api.PermissionApi;
+import api.cn.idmesh.PermissionApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -1244,11 +1244,11 @@ No authorization required
 ### Example
 ```java
 // Import classes:
-import com.idmesh.ApiClient;
-import com.idmesh.ApiException;
-import com.idmesh.Configuration;
+import cn.idmesh.ApiClient;
+import cn.idmesh.ApiException;
+import cn.idmesh.Configuration;
 import com.idmesh.models.*;
-import com.idmesh.api.PermissionApi;
+import api.cn.idmesh.PermissionApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -1314,11 +1314,11 @@ No authorization required
 ### Example
 ```java
 // Import classes:
-import com.idmesh.ApiClient;
-import com.idmesh.ApiException;
-import com.idmesh.Configuration;
+import cn.idmesh.ApiClient;
+import cn.idmesh.ApiException;
+import cn.idmesh.Configuration;
 import com.idmesh.models.*;
-import com.idmesh.api.PermissionApi;
+import api.cn.idmesh.PermissionApi;
 
 public class Example {
   public static void main(String[] args) {

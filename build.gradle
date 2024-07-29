@@ -2,8 +2,9 @@ apply plugin: 'idea'
 apply plugin: 'eclipse'
 apply plugin: 'java'
 
-group = 'com.idmesh'
-version = '1.4.7'
+group = 'cn.idmesh'
+//version = '1.4.7' // api 版本
+version = '0.0.1-SNAPSHOT'
 
 buildscript {
     repositories {
@@ -90,6 +91,16 @@ if(hasProperty('target') && target == 'android') {
             maven(MavenPublication) {
                artifactId = 'idmesh-api-sdk-java'
                from components.java
+            }
+        }
+
+        repositories {
+            maven {
+                url = 'https://packages.aliyun.com/maven/repository/2115475-snapshot-0T81oS'
+                credentials {
+                    username = '610946bafa25fa3e2417237e'
+                    password = 'CDaQrqpfhFuE'
+                }
             }
         }
     }
